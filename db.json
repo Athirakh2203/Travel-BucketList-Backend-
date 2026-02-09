@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "6e0d",
+      "name": "Athira",
+      "email": "athira@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "6626",
+      "name": "Ayana",
+      "email": "ayana@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "effa",
+      "name": "anu",
+      "email": "anu@gmail.com",
+      "password": "123456789"
+    }
+  ],
+  "destinations": [
+    {
+      "name": "Paris",
+      "country": "France",
+      "description": "It was a beautiful Places",
+      "visited": false,
+      "id": "6f39"
+    }
+  ]
+}
